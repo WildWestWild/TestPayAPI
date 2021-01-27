@@ -1,0 +1,12 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Rider cache/options directory
+.idea/
+
+# Rider user config file
+TestApp.sln.DotSettings.user
+
+# Build results
+bin/
+obj/
